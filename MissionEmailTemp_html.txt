@@ -1,0 +1,24 @@
+﻿<html>
+        <head></head>
+                <body>
+                        <p><font face=”serif”>
+To the Permanent Mission of INSERT_HERE to the United Nations,<br>
+<br>
+The Columbia Model United Nations Conference and Exposition (CMUNCE) is celebrating its 23rd annual conference at Columbia University, which will take place from January 11th-14th, 2024. <b>We would appreciate your participation in providing an introduction to 15-20 high school youth to the world of diplomacy through a visit to your New York office on the morning of Friday, January 12, 2024.</b><br>
+<br>
+The Columbia Model United Nations Conference and Exposition is an annual four-day
+international affairs conference that hosts over 800 high school students. These delegates participate in fast-paced crisis committees, where a diverse range of historical time periods from around the world are brought to life. Our distinctive format of these committees give delegates an opportunity to strengthen their debate and problem solving skills in pressing situations not unlike those found in the real-life diplomatic world.<br>
+<br>
+As one of the country’s premier high school conferences, CMUNCE aims to provide interactions and dialogues between delegates and their real life diplomatic counterparts. Being in New York City offers an unmatched opportunity to make this a reality, and we hope you will consider scheduling a meeting with delegates as an enriching and impactful experience that will open their eyes to the impact of your work on the global community.<br>
+<br>
+For more information on our conference, visit our website, <a href=”www.cmunce.org”>www.cmunce.org</a>. If you are interested in participating, please reply to this email at your earliest convenience. If you have any questions, feel free to contact me via email at <a href=”mailto:d.kuang@columbia.edu”>d.kuang@columbia.edu</a> or via phone at +1 (216)-903-5257.<br>
+<br>
+Thank you so much for your consideration, and we hope to see you during CMUNCE 2024!<br>
+<br>
+Sincerely,<br>
+<b>David Kuang</b><br>
+<i>Undersecretary-General, Programming</i><br>
+CMUNCE XXIII | January 11-14, 2024 <a href=www.cmunce.org>www.cmunce.org</a>
+</font></p>
+                </body>
+</html>
